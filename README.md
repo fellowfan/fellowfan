@@ -1,4 +1,14 @@
-Hi my name is Kevin and I am a 2nd year Computer Science student at Toronto Metropolotian University (formerly known as Ryerson). 
+## Hi I'm Kevin 🙂
+
+### 2nd Year Computer Science Student 🖥️
+- Familiar with Java and Python 👍
+- Currently learning web development (Javascript, HTML, CSS) 📚  
+
+
+
+
+### Find me on [LinkedIn](https://www.linkedin.com/in/kevin-huang-tmu/)
+  
 
 <!---
 fellowfan/fellowfan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
