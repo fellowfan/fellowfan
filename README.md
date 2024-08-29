@@ -2,7 +2,9 @@
 
 ### 2nd Year Computer Science Student 🖥️
 - Familiar with Java and Python 👍
-- Currently learning web development (Javascript, HTML, CSS) 📚  
+- Currently learning web development (Javascript, HTML, CSS) 📚
+- Passion for game development and all things computer science 🏆
+- Seeking Summer 2024 Internships ⌕
 
 
 
