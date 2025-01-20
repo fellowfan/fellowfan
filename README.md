@@ -22,7 +22,7 @@
 <h3 align="center">📞 Contact Me</h2> 
   <p align="center">
      <a href="https://www.linkedin.com/in/kevin-huang-tmu/" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=linkedin"></a>
-     <a href="gmail:k11huang@torontomu.ca"> <img src="https://skillicons.dev/icons?i=gmail"></a> 
+     <a href="mailto:k11huang@torontomu.ca"> <img src="https://skillicons.dev/icons?i=gmail"></a> 
   </p>
 </p>
 
