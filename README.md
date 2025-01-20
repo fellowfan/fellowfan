@@ -3,7 +3,7 @@
 ### 2nd Year Computer Science Student 🖥️
 - Familiar with Java and Python 👍
 - Currently learning web development (Javascript, HTML, CSS) 📚
-- Working on a website and a game on Godot ✍️
+- Working on a portfolio website and a game on Godot ✍️
 - Passion for game development and all things computer science 🏆
 - Seeking Summer 2024 Internships ⌕  
 
