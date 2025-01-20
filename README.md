@@ -9,7 +9,7 @@
 
 <h3 align="center">🖮 Programming Languages</h2> 
   <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,c,cpp,sql" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,c,cpp,mysql" alt="Programming Languages" />
   </p>
 </p>
 
