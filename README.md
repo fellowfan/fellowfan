@@ -7,6 +7,8 @@
 - Passion for game development and all things computer science 🏆
 - Seeking Summer 2024 Internships ⌕  
 
+
+2D style tamagotchi game developed for 2025 BMO NXT LVL x TMU WINTER GAME JAM, [How to NOT train your dragon](https://jarit.itch.io/htntyd) 🐉
 <h3 align="center">🖮 Programming Languages</h2> 
   <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,html,css,c,cpp,mysql" alt="Programming Languages" />
