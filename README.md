@@ -5,19 +5,19 @@
 - Currently learning web development (Javascript, HTML, CSS) 📚
 - Working on a portfolio website and a game on Godot ✍️
 - Passion for game development and all things computer science 🏆
-- Seeking Summer 2024 Internships ⌕  
+- Seeking Summer 2025 Internships ⌕  
 
 
 2D style tamagotchi game developed for 2025 BMO NXT LVL x TMU WINTER GAME JAM, [How to NOT train your dragon](https://jarit.itch.io/htntyd) 🐉
 <h3 align="center">🖮 Programming Languages</h2> 
   <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,c,cpp,mysql" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,c,cpp,mysql,rust,elixir" alt="Programming Languages" />
   </p>
 </p>
 
 <h3 align="center">🧰 Development Tools</h2> 
   <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,bash,linux,vscode,godot,unreal" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=github,git,bash,linux,vscode,godot" alt="Development Tools" />
   </p>
 </p>
 
